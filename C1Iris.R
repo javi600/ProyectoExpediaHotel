@@ -36,4 +36,5 @@ graphics.off() #clear plots, closes all graphic devices
 #clear console
 cat("\014") # ctrl+L
 
-#iufh
+#iufhohhcuo
+head(df)
