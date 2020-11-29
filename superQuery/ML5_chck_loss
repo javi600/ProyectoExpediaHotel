@@ -1,0 +1,1 @@
+SELECT * FROM  ML.TRAINING_INFO(model `taxi.taxifare_model`);
